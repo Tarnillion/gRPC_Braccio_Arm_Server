@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPC_TEST1", "gRPC_TEST1\gRPC_TEST1.csproj", "{8D5A9A47-67B5-4088-96E7-68DDB2F91CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDP_Arduino", "UDP_Arduino\UDP_Arduino.csproj", "{E2887515-DC83-4556-A58B-8E348CAA961E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D5A9A47-67B5-4088-96E7-68DDB2F91CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5A9A47-67B5-4088-96E7-68DDB2F91CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5A9A47-67B5-4088-96E7-68DDB2F91CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5A9A47-67B5-4088-96E7-68DDB2F91CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2887515-DC83-4556-A58B-8E348CAA961E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2887515-DC83-4556-A58B-8E348CAA961E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2887515-DC83-4556-A58B-8E348CAA961E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2887515-DC83-4556-A58B-8E348CAA961E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E41B68-CCE1-4E76-A157-CD0DF76B0C93}
+	EndGlobalSection
+EndGlobal
